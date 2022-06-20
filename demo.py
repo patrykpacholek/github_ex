@@ -3,3 +3,4 @@ def say_hello():
   print("My name is Jess")
   print("My name is Patryk")
   print("Goodbye!")
+  print(10+20)
